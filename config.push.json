@@ -1,19 +1,9 @@
 {
-  "apn": {
-    "passphrase": "Your Password",
-    "key": "ios/apn-production/PushChatKey.pem",
-    "cert": "ios/apn-production/PushChatCert.pem"
-  },
-  "apn-dev": {
-    "passphrase": "Your Password",
-    "key": "ios/apn-development/PushChatKey.pem",
-    "cert": "ios/apn-development/PushChatCert.pem"
-  },
   "gcm": {
-    "apiKey": "Your long Google API key",
-    "projectNumber": // Optional Project number
+    "apiKey": "AIzaSyAUseGQtYRV-ewd9ViTC_vmSY2eZ30Vl4Y",
+    "projectNumber": 973211817974
   },
-  "production": false,
+  "production": true,
   "badge": true,
   "sound": true,
   "alert": true,

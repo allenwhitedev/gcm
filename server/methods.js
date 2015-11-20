@@ -33,3 +33,8 @@ Meteor.methods({
 		});
 	}
 });
+
+Meteor.startup(function()
+{
+	Push.debug = true
+})
